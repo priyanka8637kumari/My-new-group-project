@@ -5,7 +5,8 @@ module.exports = {
   entry: './src/index.js',  // Entry point for your app
   output: {
     filename: 'bundle.js',  // Output JS bundle
-    path: path.resolve(__dirname, 'dist'),  // Output directory
+    path: path.resolve(__dirname, 'dist'),  
+    publicPath: '',
     clean: true,  // Cleans the output directory before each build
   },
   mode: 'development',  // Use 'development' for now
