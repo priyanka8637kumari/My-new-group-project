@@ -10,7 +10,7 @@ function createContactPage() {
     <!-- Contact Information Section -->
     <div class="contact-info">
       <h3>Get in Touch</h3>
-      <p><strong>Address:</strong> 123 Foodie Street, Taste Town, FL</p>
+      <p><strong>Address:</strong> 123 Foodie Street, Taste Town</p>
       <p><strong>Phone:</strong> (123) 456-7890</p>
       <p><strong>Email:</strong> contact@restaurant.com</p>
       
