@@ -28,7 +28,7 @@ function createMenuPage() {
           </div>
           <!-- Card 2 -->
           <div class="portfolio-card">
-            <img src="assets/Etch-a-sketch Screenshot 2024-11-19 at 09.34.39.png" alt="Project 2" class="portfolio-image">
+            <img src="" alt="Project 2" class="portfolio-image">
             <div class="portfolio-content">
               <h3>Etch-a-Sketch project</h3>
               <p>It is a fun and interactive browser-based drawing tool. <br>Key concepts: customizable grid, HTML, CSS, JavaScript Skills</p>
@@ -37,7 +37,7 @@ function createMenuPage() {
           </div>
           <!-- Card 3 -->
           <div class="portfolio-card">
-            <img src="assets/Tic Tac Toe.png" alt="Project 3" class="portfolio-image">
+            <img src="" alt="Project 3" class="portfolio-image">
             <div class="portfolio-content">
               <h3>Tic Tac Toe Project</h3>
               <p>It is a classic implementation of the popular two-player strategy game.<br>Key concepts: DOM manipulation using JavaScript, HTML, and CSS</p>
@@ -47,7 +47,7 @@ function createMenuPage() {
            <!-- Card 4 -->
         <div class="portfolio-card">
           <img
-            src="assets/Restaurant Page.png"
+            src=""
             alt="Project 3"
             class="portfolio-image"
           />
@@ -63,7 +63,7 @@ function createMenuPage() {
         <!-- Card 5 -->
         <div class="portfolio-card">
           <img
-            src="assets/WeatherApp.png"
+            src=""
             alt="Project 3"
             class="portfolio-image"
           />
@@ -83,7 +83,7 @@ function createMenuPage() {
         <!-- Card 6 -->
         <div class="portfolio-card">
           <img
-            src="assets/To-do list.png"
+            src=""
             alt="Project 3"
             class="portfolio-image"
           />
@@ -103,7 +103,7 @@ function createMenuPage() {
         <!-- Card 7 -->
         <div class="portfolio-card">
           <img
-            src="assets/library.png"
+            src=""
             alt="Project 3"
             class="portfolio-image"
           />
@@ -121,7 +121,7 @@ function createMenuPage() {
         <!-- Card 8 -->
         <div class="portfolio-card">
           <img
-            src="assets/calculator.png"
+            src=""
             alt="Project 3"
             class="portfolio-image"
           />
